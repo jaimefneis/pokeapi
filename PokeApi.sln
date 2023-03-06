@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3858CCEA-42BD-4C15-91CE-2D1248AEA110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeApi", "src\RefitPokeApi\PokeApi.csproj", "{A15FF9FE-8FF8-4041-A24A-E0555F9BB23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15FF9FE-8FF8-4041-A24A-E0555F9BB23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15FF9FE-8FF8-4041-A24A-E0555F9BB23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15FF9FE-8FF8-4041-A24A-E0555F9BB23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15FF9FE-8FF8-4041-A24A-E0555F9BB23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A15FF9FE-8FF8-4041-A24A-E0555F9BB23B} = {3858CCEA-42BD-4C15-91CE-2D1248AEA110}
+	EndGlobalSection
+EndGlobal
